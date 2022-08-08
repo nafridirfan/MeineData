@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="grid">
 
-          <a href="https://github.com/nafridirfan" className="card">
+          <a href="https://zraya.com/" className="card">
             <h3>Entrepreneurial work &rarr;</h3>
             <p>Raspwood</p>
             <p>Zraya</p>
